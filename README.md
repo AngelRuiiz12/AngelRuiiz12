@@ -101,6 +101,6 @@ Si tienes una oportunidad para un perfil junior con ganas de aprender y de const
 
 [![Email](https://img.shields.io/badge/Email-angel.rs99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.rs99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AngelRuiiz12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngelRuiiz12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/angelmanuelruizsantiago)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelmanuelruizsantiago)
 
 
